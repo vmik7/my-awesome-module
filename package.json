@@ -1,0 +1,22 @@
+{
+  "name": "@vmik7/my-awesome-module",
+  "version": "1.0.0",
+  "description": "Test of publishing modules to github or npm",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmik7/my-awesome-module.git"
+  },
+  "author": "Ivan Mikerin <vmik7@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmik7/my-awesome-module/issues"
+  },
+  "homepage": "https://github.com/vmik7/my-awesome-module#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
