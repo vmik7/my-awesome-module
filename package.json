@@ -1,5 +1,5 @@
 {
-  "name": "@vmik7/my-awesome-module",
+  "name": "my-awesome-module",
   "version": "1.0.0",
   "description": "Test of publishing modules to github or npm",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/vmik7/my-awesome-module#readme",
   "publishConfig": {
-    "@vmik7:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "typescript": "^5.3.3"
