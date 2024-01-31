@@ -16,6 +16,9 @@
     "url": "https://github.com/vmik7/my-awesome-module/issues"
   },
   "homepage": "https://github.com/vmik7/my-awesome-module#readme",
+  "publishConfig": {
+    "@vmik7:registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "typescript": "^5.3.3"
   }
