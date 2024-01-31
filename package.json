@@ -1,6 +1,6 @@
 {
   "name": "@vmik7/my-awesome-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test of publishing modules to github or npm",
   "main": "dist/index.js",
   "files": ["dist"],
