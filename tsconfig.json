@@ -5,6 +5,7 @@
   "compilerOptions": {
     "outDir": "dist",
     "target": "ES6",
-    "sourceMap": true
+    "sourceMap": true,
+    "declaration": true
   },
 }
